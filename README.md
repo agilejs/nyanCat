@@ -1,5 +1,5 @@
 # Movie Database - NodeJS version
-[![Build Status](https://travis-ci.org/agilejs/nyancat.png)](https://travis-ci.org/agilejs/nyancat)
+[![Build Status](https://travis-ci.org/agilejs/nyanCat.png)](https://travis-ci.org/agilejs/nyanCat)
 
 Another version of the legendary movie database. This time with NodeJS. The app
 is being deployed to Heroku after every push. Feel free to check it out:
