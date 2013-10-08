@@ -21,8 +21,8 @@ before_script:
 # more information on automatic deployment to heroku
 deploy:
   provider: heroku
-  app: movie-database-node
+  app: agilejs-nyancat
   api_key:
-    secure: ! 'VM4D68593b50AlKIJLnBJjukmf6XzR0lX8t/GBT8JBklxnXQKHUcfwNjE9jf
-      mra/rYws45pRyWjJzITPHScTtmK82bcj+5FCoB4sjEvOqAKWAcFPSbK+oJ/g
-      P3UPGArmHC73gZ/YFoD6TCzRJDLOYCekaiscPEQr9Bs9cwXCRp0='
+    secure: ! 'eMz+gHIN63O4UO17GAENZFGE1s3NekjYTybAUOTaWHE8/lUcf0QoyPTVxjao
+      lH7hundkkHMDms4H0n3u9J2UaOedyNzjM0LDvnNenF+xGrSrnm6XGjympRdS
+      4jyEhVu3RMjRp4KNAa7WkDzFkPXgk3Tf7LAZNlC2jr04H7mlmB0='
