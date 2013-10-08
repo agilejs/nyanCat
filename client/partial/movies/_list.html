@@ -1,7 +1,10 @@
 <table class="table table-striped table-hover">
     <thead>
-     <th><a href="" ng-click="predicate = 'title'; reverse=false">Title</a>
+     <th><a href="" ng-click="predicate = 'title'; reverse=!reverse">Title</a>
         (<a href="" ng-click="predicate = '-title'; reverse=false">^</a>)</th>
+    <th>
+        <a href="" ng-click="predicate = 'releaseYear'; reverse=!reverse">Release Year</a>
+        </th>
     </thead>
     <tbody>
 
@@ -11,7 +14,9 @@
                     {{movie.title}}
                 </a>
             </td>
+            <td>{{movie.releaseYear}}</td>
         </tr>
+
 
     </tbody>
 </table>
